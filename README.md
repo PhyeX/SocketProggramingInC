@@ -1,6 +1,10 @@
 # Socket Proggraming In C
 
-  Öncelikle programımızda kullandığımız ve alışkın olmadığımız  struct yapılarını daha iyi tanıyalım.
+  <b> Öncelikle programımızda kullandığımız ve alışkın olmadığımız  struct yapılarını daha iyi tanıyalım. </b>
+  
+  ![image](https://user-images.githubusercontent.com/45934056/97986814-537aaa00-1deb-11eb-9f9e-7c574a1e5fb0.png)
+
+
 
    ## WSADATA: 
     typedef struct WSAData {
