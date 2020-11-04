@@ -54,3 +54,12 @@
       IN_ADDR        sin_addr;
       CHAR           sin_zero[8];
     }
+    
+    
+  <b> Şimdi ise  programımızda kullandığımız   WSAStartup Kütüphanesinin fonksiyonlarını  daha iyi kullanabilmek yakından tanıyalım. </b>
+  ### WSASTARTUP ( Parameter a , Parameter b )
+  ![image](https://user-images.githubusercontent.com/45934056/98133195-5a2e1d80-1ece-11eb-862a-2049bda51652.png)
+  
+     WSAStartup,winsock kütüphanesini başlatır.2 parametre almaktadır.
+     Parameter a : (MAKEWORD(2,2)) Yüklemek istediğimiz versiyon. (2.2)
+     Paramter : (&wsa) İkincisi winsock yüklendikten sonra ek bilgi tutacak bir WSADATA yapısıdır.
