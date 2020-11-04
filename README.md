@@ -49,7 +49,7 @@
     Parameter a : AF_UNIX (UNIX internal protocols)
     
      (Bu parametre için olası diğer örnekleri)
-     AF_UNIX ( AF_LOCAL ) soket, aynı makinedeki işlemler arasında verimli bir şekilde iletişim kurmak için kullanılır.
+     AF_UNIX ( AF_LOCAL )----- Aynı makinedeki işlemler arasında verimli bir şekilde iletişim kurmak için kullanılır.
      AF_INET (ARPA Internet protocols)-----IPv4 yoluyla ağ üzerinden iletişim kurmak için kullanılır.
      AF_INET6 (ARPA Internet protocols)-----IPv6 yoluyla ağ üzerinden iletişim kurmak için kullanılır.
   
