@@ -62,4 +62,9 @@
   
      WSAStartup,winsock kütüphanesini başlatır.2 parametre almaktadır.
      Parameter a : (MAKEWORD(2,2)) Yüklemek istediğimiz versiyon. (2.2)
-     Paramter : (&wsa) İkincisi winsock yüklendikten sonra ek bilgi tutacak bir WSADATA yapısıdır.
+     Parameter b : (&wsa) İkincisi winsock yüklendikten sonra ek bilgi tutacak bir WSADATA yapısıdır.
+     
+  ### socket ( Parameter a , Parameter b , Parameter c ) 
+  ![image](https://user-images.githubusercontent.com/45934056/98134949-54d1d280-1ed0-11eb-9ea3-8fa63c8d6f90.png)
+     Parameter a : 
+     
