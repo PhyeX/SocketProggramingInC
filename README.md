@@ -75,7 +75,7 @@
        IPPROTO_TCP veya 0 TCP socketleri için kullanılabilir. tcp_socket = socket(AF_INET, SOCK_STREAM, ( 0 || IPPROTO_TCP ));
        IPPROTO_UDP veya 0 Udp socketleri için kullanıabilir . udp_socket = socket(AF_INET, SOCK_DGRAM, ( 0 || IPPROTO_UDP ));
        RFC 1700 protokolü tanımlı bir IANA IP'si tanımlamak gerekir. raw_socket = socket(AF_INET, SOCK_RAW, protocol);
-       
+   <hr/>
    ### bind( int sockfd, const struct sockaddr *addr,socklen_t addrlen);
    <ul><b><li>Soketi bir İP ve Port numarası ile ilişkilendirir. </b> 
    <li>Resimdeki gördüğünüz struct yapıları en baştaki tanımlanmış struct yapılarıyla bağdaştırılıyor. </ul>
@@ -88,7 +88,7 @@
  <li> Hata Kodu <b>10014</b>: Geçersiz bir port adressi kullanılması durumunda karşılaştığımız bir hata kodu.</ul></b>
  
   ![image](https://user-images.githubusercontent.com/45934056/100515232-836b6200-318b-11eb-8a63-2f20f352ed4e.png)
-
+<hr/>
 
              
 
