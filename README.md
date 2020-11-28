@@ -81,11 +81,11 @@
    <li>Resimdeki gördüğünüz struct yapıları en baştaki tanımlanmış struct yapılarıyla bağdaştırılıyor. </ul>
     
    ### WSAGetLastError() : Bir problem oluşması durumuna sorunun hata kodunu döndüren fonkisyon.
-  <b>Sık karşılaşılan hata kodları
+  Sık karşılaşılan hata kodları
   <ul>
- <li> Hata Kodu 10048: Portta zaten bir uygulama çalıştığı zaman aldığımız hata kodu.
- <li> Hata Kodu 10013: Erişimin yasaklı olduğu bir porta erişim sağlanmaya çalıştığında aldımığımız hata kodu.(Güvenlik duvarındaki kuralla göz atmakda fayda var.)
- <li> Hata Kodu 10014: Geçersiz bir port adressi kullanılması durumunda karşılaştığımız bir hata kodu.</b></ul></b>
+ <li> Hata Kodu <b>10048</b>: Portta zaten bir uygulama çalıştığı zaman aldığımız hata kodu.
+ <li> Hata Kodu <b>10013</b>: Erişimin yasaklı olduğu bir porta erişim sağlanmaya çalıştığında aldımığımız hata kodu.(Güvenlik duvarındaki kuralla göz atmakda fayda var.)
+ <li> Hata Kodu <b>10014</b>: Geçersiz bir port adressi kullanılması durumunda karşılaştığımız bir hata kodu.</ul></b>
  
   ![image](https://user-images.githubusercontent.com/45934056/100515232-836b6200-318b-11eb-8a63-2f20f352ed4e.png)
 
