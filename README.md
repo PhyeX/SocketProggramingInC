@@ -84,9 +84,10 @@
     
    ### WSAGetLastError() : Bir problem oluşması durumuna sorunun hata kodunu döndüren fonkisyon.
   <b>Sık karşılaşılan hata kodları</b>
-  Hata Kodu 10048: Portta zaten bir uygulama çalıştığı zaman aldığımız hata kodu.
-  Hata Kodu 10013: Erişimin yasaklı olduğu bir porta erişim sağlanmaya çalıştığında aldımığımız hata kodu.(Güvenlik duvarındaki kuralla göz atmakda fayda var.)
-  Hata Kodu 10014: Geçersiz bir port adressi kullanılması durumunda karşılaştığımız bir hata kodu.
+  <ul><b>
+ <li> Hata Kodu 10048: Portta zaten bir uygulama çalıştığı zaman aldığımız hata kodu.
+ <li> Hata Kodu 10013: Erişimin yasaklı olduğu bir porta erişim sağlanmaya çalıştığında aldımığımız hata kodu.(Güvenlik duvarındaki kuralla göz atmakda fayda var.)
+ <li> Hata Kodu 10014: Geçersiz bir port adressi kullanılması durumunda karşılaştığımız bir hata kodu.</b></ul>
 
 
              
