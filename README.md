@@ -83,6 +83,8 @@
    <li>Resimdeki gördüğünüz struct yapıları en baştaki tanımlanmış struct yapılarıyla bağdaştırılıyor. </ul>
     
    ![image](https://user-images.githubusercontent.com/45934056/100515232-836b6200-318b-11eb-8a63-2f20f352ed4e.png)
+   
+   <hr/>
     
    ### WSAGetLastError() : Bir problem oluşması durumuna sorunun hata kodunu döndüren fonkisyon.
    
