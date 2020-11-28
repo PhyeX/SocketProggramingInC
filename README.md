@@ -40,6 +40,7 @@
      Parameter a : (MAKEWORD(2,2)) Yüklemek istediğimiz versiyon. (2.2)
      Parameter b : (&wsa) İkincisi winsock yüklendikten sonra ek bilgi tutacak bir WSADATA yapısıdır.
      
+ <hr/>
   ### socket (int domain, int type, int protocol);
   <ul><b><li> Bir soket oluşturur. </li></b></ul>
   
