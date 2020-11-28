@@ -41,7 +41,9 @@
      Parameter b : (&wsa) İkincisi winsock yüklendikten sonra ek bilgi tutacak bir WSADATA yapısıdır.
      
  <hr/>
+ 
   ### socket (int domain, int type, int protocol);
+  
   <ul><b><li> Bir soket oluşturur. </li></b></ul>
   
   ![image](https://user-images.githubusercontent.com/45934056/98134949-54d1d280-1ed0-11eb-9ea3-8fa63c8d6f90.png)
