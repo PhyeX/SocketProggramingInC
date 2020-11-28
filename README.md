@@ -78,6 +78,7 @@
        
    ### bind( int sockfd, const struct sockaddr *addr,socklen_t addrlen);
    <ul><b><li>Soketi bir İP ve Port numarası ile ilişkilendirir. </li></b></ul> 
+   
    ![image](https://user-images.githubusercontent.com/45934056/100515232-836b6200-318b-11eb-8a63-2f20f352ed4e.png)
 
       
