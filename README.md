@@ -79,7 +79,7 @@
    
    ### bind( int sockfd, const struct sockaddr *addr,socklen_t addrlen);
    
-   <ul><b><li>Soketi bir İP ve Port numarası ile ilişkilendirir. </b> 
+   <ul><b><li>Soketi bir IP ve Port numarası ile ilişkilendirir. </b> 
    <li>Resimdeki gördüğünüz struct yapıları en baştaki tanımlanmış struct yapılarıyla bağdaştırılıyor. </ul>
     
    ### WSAGetLastError() : Bir problem oluşması durumuna sorunun hata kodunu döndüren fonkisyon.
