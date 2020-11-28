@@ -76,7 +76,9 @@
        IPPROTO_UDP veya 0 Udp socketleri için kullanıabilir . udp_socket = socket(AF_INET, SOCK_DGRAM, ( 0 || IPPROTO_UDP ));
        RFC 1700 protokolü tanımlı bir IANA IP'si tanımlamak gerekir. raw_socket = socket(AF_INET, SOCK_RAW, protocol);
    <hr/>
+   
    ### bind( int sockfd, const struct sockaddr *addr,socklen_t addrlen);
+   
    <ul><b><li>Soketi bir İP ve Port numarası ile ilişkilendirir. </b> 
    <li>Resimdeki gördüğünüz struct yapıları en baştaki tanımlanmış struct yapılarıyla bağdaştırılıyor. </ul>
     
