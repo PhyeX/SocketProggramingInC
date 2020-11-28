@@ -81,7 +81,7 @@
    
    ![image](https://user-images.githubusercontent.com/45934056/100515232-836b6200-318b-11eb-8a63-2f20f352ed4e.png)
 
-      
+    Resimdeki gördüğünüz struct yapıları en baştaki tanımlanmış struct yapılarıyla bağdaştırılıyor.
 
              
 
