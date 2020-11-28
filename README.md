@@ -1,5 +1,6 @@
 # Socket Proggraming In C
-
+    Host ve Client Olmak üzere 2 farklı projenin bulunduğu basit bir socket programlama projesi.
+  
   <b> Öncelikle programımızda kullandığımız ve alışkın olmadığımız  struct yapılarını daha iyi kullanabilmek için yakından inceleyelim. </b>
   
   ![image](https://user-images.githubusercontent.com/45934056/97986814-537aaa00-1deb-11eb-9f9e-7c574a1e5fb0.png)
@@ -83,7 +84,6 @@
    <li>Resimdeki gördüğünüz struct yapıları en baştaki tanımlanmış struct yapılarıyla bağdaştırılıyor. </ul>
     
    ### WSAGetLastError() : Bir problem oluşması durumuna sorunun hata kodunu döndüren fonkisyon.
-  Sık karşılaşılan hata kodları
   <ul>
  <li> Hata Kodu <b>10048</b>: Portta zaten bir uygulama çalıştığı zaman aldığımız hata kodu.
  <li> Hata Kodu <b>10013</b>: Erişimin yasaklı olduğu bir porta erişim sağlanmaya çalıştığında aldımığımız hata kodu.(Güvenlik duvarındaki kuralla göz atmakda fayda var.)
