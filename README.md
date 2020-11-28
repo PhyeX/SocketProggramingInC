@@ -1,5 +1,4 @@
 # Socket Proggraming In C
-    Host ve Client Olmak üzere 2 farklı projenin bulunduğu basit bir socket programlama projesi.
   
   <b> Öncelikle programımızda kullandığımız ve alışkın olmadığımız  struct yapılarını daha iyi kullanabilmek için yakından inceleyelim. </b>
   
