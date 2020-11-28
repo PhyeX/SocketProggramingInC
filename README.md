@@ -79,15 +79,15 @@
    ### bind( int sockfd, const struct sockaddr *addr,socklen_t addrlen);
    <ul><b><li>Soketi bir İP ve Port numarası ile ilişkilendirir. </b> 
    <li>Resimdeki gördüğünüz struct yapıları en baştaki tanımlanmış struct yapılarıyla bağdaştırılıyor. </ul>
-   
-  ![image](https://user-images.githubusercontent.com/45934056/100515232-836b6200-318b-11eb-8a63-2f20f352ed4e.png)
     
    ### WSAGetLastError() : Bir problem oluşması durumuna sorunun hata kodunu döndüren fonkisyon.
-  <b>Sık karşılaşılan hata kodları</b>
-  <ul><b>
+  <b>Sık karşılaşılan hata kodları
+  <ul>
  <li> Hata Kodu 10048: Portta zaten bir uygulama çalıştığı zaman aldığımız hata kodu.
  <li> Hata Kodu 10013: Erişimin yasaklı olduğu bir porta erişim sağlanmaya çalıştığında aldımığımız hata kodu.(Güvenlik duvarındaki kuralla göz atmakda fayda var.)
- <li> Hata Kodu 10014: Geçersiz bir port adressi kullanılması durumunda karşılaştığımız bir hata kodu.</b></ul>
+ <li> Hata Kodu 10014: Geçersiz bir port adressi kullanılması durumunda karşılaştığımız bir hata kodu.</b></ul></b>
+ 
+  ![image](https://user-images.githubusercontent.com/45934056/100515232-836b6200-318b-11eb-8a63-2f20f352ed4e.png)
 
 
              
